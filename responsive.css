@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#nav{
+    background-color: rgb(18, 140, 126);
+    color: white;
+    height: 90px;
+    padding-left: 150px;
+}
+.nav-brand{
+    display: inline-block;
+  padding-bottom: 0.4rem;
+  font-size: 25px;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.nav-brand:hover, .nav-brand:focus {
+    text-decoration: none;
+  }
+
+#nav-word{
+    color: white;
+    font-weight: 600;
+    margin: 0 1.5rem;
+}
+#nav-toggler{
+    border: none;
+}
+#phone-1{
+    width: 185px;
+}
+#phone{
+    width: 210px;
+}
+#laptop{
+    width: 73%;
+}
+#col-1{
+    background-color: rgb(231, 240, 228);
+}
+#col-2{
+    background-color: rgb(252, 242, 198);
+}
+.button{
+    background-color: rgb(18, 140, 126);
+    color: white;
+    border-radius: 30px;
+    display: block;
+    width: 100px;
+    padding: 15px 20px;
+    margin: 0 auto;
+}
+.btn-large{
+    width: 250px;
+}
+.img1{
+    display: block;
+    margin: 0 auto;
+}
+.link1{
+    display: block;
+    margin: 20px;
+}
+.section1{
+    background-color: rgb(39, 52, 67);
+    color: white;
+    padding: 3rem;
+    font-weight: 500;
+    font-size: 18px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    padding: 15px 0;
+}
+.section1 p{
+    margin-bottom: 0;
+}
+#navbarNavDropdown{
+    background-color: rgb(18, 140, 126);
+    color: white;
+}
+#footer-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10vw;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* welcome page */
+
+#phone-2{
+    width: 300px;
+    margin-top: 50px;
+}
+#div1 h2{
+    width: 300px;
+    margin-bottom: 30px;
+}
+#div1{
+    /* padding-left: 20vw; */
+    padding-top: 10vh;
+}
+#p1{
+    font-size: 18px;
+    width: 400px;
+}
+#p2{
+    color: gray;
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+#div1 a{
+display: block;
+color: rgb(41, 183, 161);
+font-size: 18px;
+font-weight: 400;
+width: 400px;
+padding: 10px;
+}
+
+#div2{
+    text-align: center;
+    background-color: rgb(216, 232, 234);
+    padding: 12vh 12vh 0 12vh;
+}
+#div3{
+    background-color: rgb(231, 240, 228);
+    text-align: center;
+    padding: 0 12vh 0 12vh;
+}
+#div2 p, #div3 p{
+    font-size: 18px;
+    margin: 35px 0;
+}
+
+#circle{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: rgb(119, 215, 200);
+    margin: 70px auto;
+    position: relative;
+}
+#phone-3{
+    width: 400px;
+    margin-top: 40px;
+}
+#circle p{
+    background-color: white;
+    font-size: 30px;
+    width: 200px;
+    padding: 10px 0;
+    position: absolute;
+    top: 115px;
+    left: 75px;
+    border-radius: 20px;
+}
+
+
+#btn{
+    width: 220px;
+    color:  rgb(18, 140, 126);
+    border-color: rgb(119, 215, 200);
+    background-color: white;
+    margin: 50px auto 90px;
+}
+
+
+/* features page  */
+
+#row1{
+    text-align: center;
+    padding: 0 12vh 0 12vh;
+}
+#row1 p{
+    font-size: 18px;
+    margin: 35px 0;
+}
+
+#div-1{
+    background-color: rgb(252, 242, 198);
+    padding-top: 80px;
+}
+#div-1{
+    max-width: 100%;
+}
+
+#div-5{
+    background-color: rgb(231, 240, 228);
+    padding-top: 80px;
+}
+
+#box{
+    position: relative;
+    height: 500px;
+}
+#box h5{
+    color: gray;
+    margin-top: 10px;
+    font-size: 17px;
+}
+#one{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
+#two{
+    position: absolute;
+    top: 100px;
+    left: 140px;
+}
+#three{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+}
